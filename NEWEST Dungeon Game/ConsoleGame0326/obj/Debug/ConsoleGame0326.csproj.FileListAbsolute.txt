@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\ConsoleGame0326\ConsoleGame0326\obj\Debug\ConsoleGame0326.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\ConsoleGame0326\ConsoleGame0326\obj\Debug\ConsoleGame0326.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\ConsoleGame0326\ConsoleGame0326\bin\Debug\ConsoleGame0326.exe.config
+C:\Users\micha\source\repos\ConsoleGame0326\ConsoleGame0326\bin\Debug\ConsoleGame0326.exe
+C:\Users\micha\source\repos\ConsoleGame0326\ConsoleGame0326\bin\Debug\ConsoleGame0326.pdb
+C:\Users\micha\source\repos\ConsoleGame0326\ConsoleGame0326\obj\Debug\ConsoleGame0326.exe
+C:\Users\micha\source\repos\ConsoleGame0326\ConsoleGame0326\obj\Debug\ConsoleGame0326.pdb
+C:\Users\micha\OneDrive\DungeonGame\ConsoleGame0326\ConsoleGame0326\obj\Debug\ConsoleGame0326.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\DungeonGame\ConsoleGame0326\ConsoleGame0326\obj\Debug\ConsoleGame0326.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\DungeonGame\ConsoleGame0326\ConsoleGame0326\obj\Debug\ConsoleGame0326.exe
+C:\Users\micha\OneDrive\DungeonGame\ConsoleGame0326\ConsoleGame0326\obj\Debug\ConsoleGame0326.pdb
+C:\Users\micha\OneDrive\DungeonGame\ConsoleGame0326\ConsoleGame0326\bin\Debug\ConsoleGame0326.exe.config
+C:\Users\micha\OneDrive\DungeonGame\ConsoleGame0326\ConsoleGame0326\bin\Debug\ConsoleGame0326.exe
+C:\Users\micha\OneDrive\DungeonGame\ConsoleGame0326\ConsoleGame0326\bin\Debug\ConsoleGame0326.pdb
