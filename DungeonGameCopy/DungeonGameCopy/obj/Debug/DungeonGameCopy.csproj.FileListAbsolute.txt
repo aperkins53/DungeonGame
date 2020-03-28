@@ -1,0 +1,7 @@
+C:\Users\alec1\source\repos\DungeonGameCopy\DungeonGameCopy\bin\Debug\DungeonGameCopy.exe.config
+C:\Users\alec1\source\repos\DungeonGameCopy\DungeonGameCopy\bin\Debug\DungeonGameCopy.exe
+C:\Users\alec1\source\repos\DungeonGameCopy\DungeonGameCopy\bin\Debug\DungeonGameCopy.pdb
+C:\Users\alec1\source\repos\DungeonGameCopy\DungeonGameCopy\obj\Debug\DungeonGameCopy.csprojAssemblyReference.cache
+C:\Users\alec1\source\repos\DungeonGameCopy\DungeonGameCopy\obj\Debug\DungeonGameCopy.csproj.CoreCompileInputs.cache
+C:\Users\alec1\source\repos\DungeonGameCopy\DungeonGameCopy\obj\Debug\DungeonGameCopy.exe
+C:\Users\alec1\source\repos\DungeonGameCopy\DungeonGameCopy\obj\Debug\DungeonGameCopy.pdb
